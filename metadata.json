@@ -1,0 +1,8 @@
+{
+  "name": "Remix KitchenBatch",
+  "description": "A browser-based dashboard for optimizing canteen ingredient planning and demand forecasting using client-side numerical analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
